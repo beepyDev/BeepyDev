@@ -14,4 +14,4 @@ My greatest accomplishment is winning first place in [a statewide highschool cod
 
 ## Website
 
-You can view my website at [beepydev.us.to][http://beepydev.us.to] (doesn't work? try [austin.zya.me](http://austin.zya.me)
+You can view my website at [beepydev.us.to](http://beepydev.us.to) (doesn't work? try [austin.zya.me](http://austin.zya.me))
