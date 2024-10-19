@@ -1,17 +1,17 @@
 # BeepyDev
 
-Hi, I'm BeepyDev. I love coding in Python and JavaScript. I hate semicolons with a passion.
+I hate semicolons with a passion, that's pretty much all you need to know. (I make an exception for PHP.)
 
-I started coding in Scratch, then switched to web development, and now I mainly code in Python, C#, and Lua.
+My current obsession is backend web development, especially PHP.
 
 ## What I'm working on
 
-I'm working on something but it's yet to be announced.
+Working on a full-stack social media platform framework, using PHP and HTML/CSS/JS (notably no SQL).
 
 ## Greatest accomplishment
 
-My greatest accomplishment is winning first place in [a statewide highschool coding contest](https://www.indianatsa.org). (Wish me luck at nationals!)
+My greatest accomplishment is winning first place in a statewide highschool [coding contest](https://www.indianatsa.org).
 
 ## Website
 
-You can view my website at [beepydev.us.to](http://beepydev.us.to) (doesn't work? try [austin.zya.me](http://austin.zya.me))
+You can view my website [here](http://beepydev.infinityfreeapp.com), but I haven't built a homepage yet so you'll need to have a direct project url.
