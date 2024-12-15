@@ -1,12 +1,10 @@
 # BeepyDev
 
-I hate semicolons with a passion, that's pretty much all you need to know. (I make an exception for PHP.)
-
-My current obsession is backend web development, especially PHP.
+Semicolons scare me. Average Python dev.
 
 ## What I'm working on
 
-Working on a full-stack social media platform framework, using PHP and HTML/CSS/JS (notably no SQL).
+A programming language for frontend web development
 
 ## Greatest accomplishment
 
