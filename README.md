@@ -1,10 +1,11 @@
 # BeepyDev
 
-Semicolons scare me. Average Python dev.
+Semicolons scare me. Average Python dev
 
 ## What I'm working on
 
-A programming language for frontend web development
+- A programming language for frontend web development (compiles to JS)
+- Getting into Minecraft modding with Java
 
 ## Greatest accomplishment
 
