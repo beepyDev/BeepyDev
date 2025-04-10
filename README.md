@@ -4,13 +4,10 @@ Semicolons scare me. Average Python dev
 
 ## What I'm working on
 
+- Full-featured notes app with AI and cloud integration
 - A programming language for frontend web development (compiles to JS)
-- Getting into Minecraft modding with Java
 
 ## Greatest accomplishment
 
 My greatest accomplishment is winning first place in a statewide highschool [coding contest](https://www.indianatsa.org).
-
-## Website
-
-You can view my website [here](http://beepydev.infinityfreeapp.com), but I haven't built a homepage yet so you'll need to have a direct project url.
+Update: got 3rd place this year, going to nationals
