@@ -1,8 +1,8 @@
 # 💫 About Me:
-💻 fullstack web (React & Node.js) + Python<br>💡 learning Rust, Go, and C<br>🇺🇸 US<br>🌐 speaks EN, ES, EO<br>🐦 building in public on [https://x.com/cldratio](X)
+💻 fullstack web (React & Node.js) + Python<br>💡 learning Rust, Go, and C<br>🇺🇸 US<br>🌐 speaks EN, ES, EO<br>🐦 building in public on [X](https://x.com/cldratio)
 
 
-## 🌐 Socials:
+## 🗨️ Contact:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cldratio) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:beepydev@proton.me) 
 
 # 💻 Tech Stack:
@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=beepyDev&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=beepyDev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=beepyDev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=beepyDev&theme=dark&hide_border=false&include_all_commits=true&count_private=false
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=beepyDev&theme=github_dark&no-frame=true&no-bg=true&margin-w=4)
