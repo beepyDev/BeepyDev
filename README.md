@@ -1,7 +1,8 @@
 # ☕ beepyDev
 
 [<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/beepyDev?color=blue&style=for-the-badge&label=Followers"/>](#)
-[![](https://komarev.com/ghpvc/?username=beepyDev&color=blue&style=for-the-badge)](#)<br>
+[<img alt="profile views" title="Views on my profile" src="https://komarev.com/ghpvc/?username=beepyDev&color=blue&style=for-the-badge"/>](#)<br>
+<a href="https://www.codewars.com/users/BeepyDev" target="_blank"><img alt="codewars rank" title="My CodeWars profile" src="https://www.codewars.com/users/BeepyDev/badges/large?logo=false"/></a>
 
 ### ✉️ Contact
 [![X](https://img.shields.io/badge/X-white.svg?logo=X&logoColor=black&style=for-the-badge)](https://x.com/cldratio) [![email](https://img.shields.io/badge/Email-white?logo=gmail&logoColor=black&style=for-the-badge)](mailto:beepydev@proton.me) 
