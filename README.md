@@ -1,4 +1,4 @@
-# ☕ beepyDev
+# ☕ Coldratio - formerly beepyDev
 
 [<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/beepyDev?color=blue&style=for-the-badge&label=Followers"/>](#)
 [<img alt="profile views" title="Views on my profile" src="https://komarev.com/ghpvc/?username=beepyDev&color=blue&style=for-the-badge"/>](#)<br>
