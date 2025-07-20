@@ -8,7 +8,7 @@
 [![email](https://img.shields.io/badge/Email-white?logo=gmail&logoColor=black&style=for-the-badge)](mailto:beepydev@proton.me) 
 
 ### ℹ️ About me
-> 💻 fullstack web (React & Node.js) Python, and Rust<br>💡 learning Go and C<br>🌎 US<br>🌐 speaks EN, ES, EO
+> 💻 fullstack web (React & Node.js), Python, and Rust<br>💡 learning C and Kotlin<br>🌎 US<br>🌐 speaks EN, ES, EO
 
 
 # 💻 Tech Stack:
