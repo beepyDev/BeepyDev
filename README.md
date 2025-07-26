@@ -1,7 +1,7 @@
 # ☕ teccin
 
-[<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/beepyDev?color=blue&style=for-the-badge&label=Followers"/>](#)
-[<img alt="profile views" title="Views on my profile" src="https://komarev.com/ghpvc/?username=beepyDev&color=blue&style=for-the-badge"/>](#)<br>
+[<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/teccdev?color=blue&style=for-the-badge&label=Followers"/>](#)
+[<img alt="profile views" title="Views on my profile" src="https://komarev.com/ghpvc/?username=teccdev&color=blue&style=for-the-badge"/>](#)<br>
 <a href="https://www.codewars.com/users/teccin" target="_blank"><img alt="codewars rank" title="My CodeWars profile" src="https://www.codewars.com/users/teccin/badges/large?logo=false"/></a>
 
 ### ✉️ Contact
